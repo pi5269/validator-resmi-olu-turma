@@ -1,4 +1,4 @@
-# validator-resmi-olu-turma
+# validator resmi olusturma
 Validator Resmi Nasıl Oluşturulur? 
 
 1-https://keybase.io gir ve uyelik oluştur. kullanıcı adı, mail gir ve şifre belirle 
