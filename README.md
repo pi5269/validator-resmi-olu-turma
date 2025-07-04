@@ -31,7 +31,7 @@ babylond tx staking create-validator \
 
 bu kodta bulunan identitity nin karşısına 16 haneli kodu yazdığınızda validator adınızın yanında resminiz çıkacaktır. 
 
-Mevcut kurulmuş validatorlere bu resmi yukleyebilirmiyiz? EVET; Örnek veriyorum. 
+Mevcut kurulmuş validatorlere bu resmi yukleyebilirmiyiz? EVET; Örnek olarak. 
 babylond tx staking edit-validator \
 --new-moniker="Moniker" \
 --identity=FFB0AA51A2DF5955 \
